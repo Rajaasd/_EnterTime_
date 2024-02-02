@@ -1,0 +1,98 @@
+.nav{
+	align-items:center;
+	font-size: 25px;
+	font-weight:600;
+ border-radius:30px;
+	position:relative;
+	
+}
+.conatiner{
+	position: relative;
+}
+.title{
+	display:flex;
+	justify-content: flex-start;
+	color:white;
+}
+.black{
+	background-color:rgba(0,0,0,.9);
+}
+.black-1{
+	background-color:rgba(0,0,0,1) ;
+}
+.radius{
+	border-radius:20px;
+	margin-bottom: 10px;
+	
+}
+.btn-link{
+	text-decoration: none;
+	color:white;
+	font-weight: 700;
+	
+}
+
+.nav-link{
+	color: white;
+}
+.nav-item{
+	padding:10px;
+	border-bottom: solid 1px rgba(0,0,0,.5)
+}
+.list-group{
+	position: absolute;
+	width: 95vw;
+}
+.white{
+	color: #F5F5F5;
+}
+.menu-icon{
+	position: absolute;
+ right: 0;
+ margin-right: 20px;
+ bottom: 20px;
+ 
+}
+.video{
+	margin-top: 20px;
+	height: 250px;
+	width: 93vw;
+	border-radius: 20px;
+}
+.thumbnail{
+	font-size: 25px;
+	font-weight:600;
+	color:white;
+	text-align: center;
+}
+.alert
+{
+	color: white;
+	font-size: 15px;
+	position: fixed;
+	bottom: 0;
+	width:95vw;
+	font-weight: 600;
+	text-align: center;
+}
+.feed form{
+	color: white;
+	margin: 20px;
+	border-radius: 20px;
+}
+.form-group{
+	display:flex;
+	flex-direction: column;
+	padding: 15px;
+}
+.submit{
+	margin-left:120px;
+}
+.back{
+	position: fixed;
+	bottom: 0;
+	margin-bottom:20px;
+	background-color: black;
+	padding:10px;
+	border-radius:10px;
+}
